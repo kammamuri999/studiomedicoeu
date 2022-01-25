@@ -8,7 +8,7 @@ title: Studiomedico.eu
 
 ### Specialista in Neurologia 
 
-Convenzionata S.S.N. 
+#### Medico di Medicina generale, Convenzionata S.S.N. 
 
 Telefono 02 82397935
 
