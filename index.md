@@ -24,7 +24,7 @@ title: Studiomedico.eu
 
 Convenzionata S.S.N. 
 
-Telefono 02 82397935
+Telefono +39 333 2533319
 
 |Orari ambulatorio    |    |
 |---|----|

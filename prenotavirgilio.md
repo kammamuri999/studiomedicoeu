@@ -10,7 +10,7 @@ title: Studiomedico.eu
 
 #### Medico di Medicina generale, Convenzionata S.S.N. 
 
-Telefono 02 82397935
+Telefono +39 333 2533319
 
 <iframe src="https://koalendar.com/e/visita-medica-dottssa-virgilio-roberta?embed=true" width="100%" height="800px" frameborder="0"></iframe>
 
