@@ -24,6 +24,8 @@ title: Studiomedico.eu
 
 Convenzionata S.S.N. 
 
+#### Si comunica che dal giorno 14/02/2022 in poi la dr.ssa Virgilio riceverà nello studio di via Giosué Borsi 8/A, con nuovi orari che verranno a breve comunicati.
+
 Telefono +39 333 2533319
 
 |Orari ambulatorio    |    |
