@@ -7,10 +7,7 @@ title: Studiomedico.eu
 <div class="columns">
 <div class="column"></div>
 <div class="column is-two-thirds">
-<!-- <span>
-<a href="https://www.studiomedico.eu/prenotavirgilio" class="button is-success">Prenota un appuntamento: Dott.ssa Virgilio</a>
-<a href="https://www.studiomedico.eu/prenotasantoro" class="button is-info">Prenota un appuntamento: Dott. Santoro</a>
-</span> -->
+
 </div>
 <div class="column"></div>
 </div>
@@ -23,7 +20,7 @@ title: Studiomedico.eu
 
 Convenzionata S.S.N. 
 
-#### Si comunica che dal giorno 14/02/2022 in poi la dr.ssa Virgilio riceverà nello studio di via Giosué Borsi 8/A, prenotare tramite la segreteria al numero 02 8940 3365
+#### Si comunica che lo studio si è trasferito in via Giosué Borsi 8/A, prenotare tramite la segreteria al numero 02 8940 3365
 
 Telefono +39 333 2533319
 
@@ -45,17 +42,17 @@ Per ulteriori richieste virgilio@studiomedico.eu
 ### Specialista in Neurologia 
 Convenzionato S.S.N.
 
-#### Si comunica che dal giorno 01/04/2022 in poi il Dott Santoro riceverà nello studio di via Giosué Borsi 8/A, prenotare tramite la segreteria al numero 02 8940 3365
+#### Si comunica che dal giorno 01/04/2022 lo studio si è trasferito in via Giosué Borsi 8/A, prenotare tramite la segreteria al numero 02 8940 3365
 
 Telefono 02 82397935
 
 |Orari ambulatorio    |    |
 |---|----|
-|LUNEDI'    | dalle 13.00 alle 15.00 |
-|MARTEDI'    | dalle 10.00 alle 12.00 |
-|MERCOLEDI'    | dalle 14.45 alle 16.45 |
-|GIOVEDI'    | dalle 10.00 alle 12.00 |
-|VENERDI'    | dalle 12.00 alle 14.00 |
+|LUNEDI'    | dalle 17.00 alle 19.00 |
+|MARTEDI'    | dalle 10.30 alle 12.30 |
+|MERCOLEDI'    | dalle 17.00 alle 19.00 |
+|GIOVEDI'    | dalle 10.30 alle 12.30 |
+|VENERDI'    | dalle 10.30 alle 12.30 |
 
 Per ulteriori richieste santoro@studiomedico.eu
 
